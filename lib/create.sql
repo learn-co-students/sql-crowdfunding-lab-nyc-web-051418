@@ -1,7 +1,7 @@
 CREATE TABLE users (
   id INTEGER PRIMARY KEY,
   name TEXT,
-  age TEXT
+  age INTEGER
 );
 
 CREATE TABLE projects (
